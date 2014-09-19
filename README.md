@@ -1,7 +1,7 @@
 textblob-stanfordparser
 =======================
 
-``TextBlob`` model extension: wrapper classes for ``StanfordParser`` (via ``NLTK``)
+[TextBlob](http://textblob.readthedocs.org/en/dev/) model extension: wrapper classes for ``StanfordParser`` (via ``NLTK``)
 
 Currently hosted in private repository.
 
